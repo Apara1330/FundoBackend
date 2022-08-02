@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCa/MKStOuUcNKcUTx8F7Cbh7YrQ0+fs46Khkeja2H3RW6IjhOhhmjPBjl9Ts0aLiHFdKtxnRA2msnxgzdPFDw==",
+  "success": true,
+  "projectFilePath": "F:\\Backend Project\\FundoBackend\\commonLayer\\commonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apara\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

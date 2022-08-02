@@ -1,0 +1,15 @@
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\businessLayer.deps.json
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\businessLayer.dll
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\businessLayer.pdb
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\commonLayer.dll
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\repoLayer.dll
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\repoLayer.pdb
+F:\Backend Project\FundoBackend\businessLayer\bin\Debug\netcoreapp3.1\commonLayer.pdb
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.csproj.AssemblyReference.cache
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.AssemblyInfoInputs.cache
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.AssemblyInfo.cs
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.csproj.CoreCompileInputs.cache
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.csproj.CopyComplete
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.dll
+F:\Backend Project\FundoBackend\businessLayer\obj\Debug\netcoreapp3.1\businessLayer.pdb

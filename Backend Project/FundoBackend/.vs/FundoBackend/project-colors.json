@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30b6a82c-ecac-4a05-b39d-57b56a00dff5": {
+      "ProjectGuid": "30b6a82c-ecac-4a05-b39d-57b56a00dff5",
+      "DisplayName": "FundoBackend",
+      "ColorIndex": 0
+    },
+    "2c2e0556-a682-4ed0-8dca-ebc4f0c7ae51": {
+      "ProjectGuid": "2c2e0556-a682-4ed0-8dca-ebc4f0c7ae51",
+      "DisplayName": "repoLayer",
+      "ColorIndex": 1
+    },
+    "7b66e8a0-fd97-49c9-b587-19d85dd46161": {
+      "ProjectGuid": "7b66e8a0-fd97-49c9-b587-19d85dd46161",
+      "DisplayName": "businessLayer",
+      "ColorIndex": 2
+    },
+    "7d41ff62-ad15-46ad-b11b-836498f77e73": {
+      "ProjectGuid": "7d41ff62-ad15-46ad-b11b-836498f77e73",
+      "DisplayName": "commonLayer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
